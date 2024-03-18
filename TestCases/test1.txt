@@ -1,1 +1,5 @@
- 
+Hello, this is a simple test.
+The quick brown fox jumps over the lazy dog.
+HELLO, THIS IS A SIMPLE TEST.
+hello, this is a simple test.
+HeLlo, ThIs is a SiMple teSt.
