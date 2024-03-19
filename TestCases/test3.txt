@@ -1,4 +1,0 @@
-Hello,world without space after comma should fail.
-"Quote" at the beginning is okay.
-Parentheses (like these) are fine.
-Comma, immediately followed by a correct word, is okay.

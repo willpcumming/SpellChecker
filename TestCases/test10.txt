@@ -1,4 +1,0 @@
-accomodate  // should be accommodate
-definately  // should be definitely
-recieve     // should be receive
-seperate    // should be separate

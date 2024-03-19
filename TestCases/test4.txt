@@ -1,3 +1,0 @@
-hello matches Hello and HELLO but not HeLLo.
-macdonald should only match MACDONALD or the exact case.
-"MacDonald" should be found, but "macdonald" and "Macdonald" should not.
